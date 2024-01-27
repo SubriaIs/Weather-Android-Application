@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मौसम आवेदन</string>
+    <string name="back">पीछे</string>
+    <string name="tampere_weather">टैम्पियर मौसम</string>
+    <string name="_5_c">-५  डिग्री सेल्सियस</string>
+    <string name="_3_m_s">३ मी/से</string>
+    <string name="a_partly_cloudy_day">आंशिक रूप से बादल छाए रहने वाला दिन</string>
+    <string name="refresh">नया करना</string>
+    <string name="show_forecast">पूर्वानुमान दिखाएं</string>
+    <string name="city">शहर</string>
+    <string name="open_www_tuni_fi">Www.tuni.fi खोलें</string>
+    <string name="show_map">नक्शा दिखाएं</string>
+    <string name="set_timer">टाइमर सेट करें</string>
+    <string name="city_name">शहर का नाम</string>
+</resources>

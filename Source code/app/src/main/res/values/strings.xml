@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="back">Back</string>
+    <string name="tampere_weather">Tampere Weather</string>
+    <string name="_5_c">-5°C</string>
+    <string name="_3_m_s">3 m/s</string>
+    <string name="a_partly_cloudy_day">A partly cloudy day</string>
+    <string name="refresh">Refresh</string>
+    <string name="show_forecast">Show Forecast</string>
+    <string name="city">City</string>
+    <string name="open_www_tuni_fi">Open www.tuni.fi</string>
+    <string name="show_map">SHOW MAP</string>
+    <string name="set_timer">set timer</string>
+    <string name="city_name">City Name</string>
+</resources>

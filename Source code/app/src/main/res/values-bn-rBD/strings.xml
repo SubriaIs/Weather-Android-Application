@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">আবহাওয়া অ্যাপ্লিকেশন</string>
+    <string name="back">পেছনে</string>
+    <string name="tampere_weather">টেম্পেরে আবহাওয়া</string>
+    <string name="_5_c">-৫ ডিগ্রি সেলসিয়াস</string>
+    <string name="_3_m_s">৩ মি/সেকেন্ড</string>
+    <string name="a_partly_cloudy_day">একটি আংশিক মেঘলা দিন</string>
+    <string name="refresh">রিফ্রেশ</string>
+    <string name="show_forecast">পূর্বাভাস দেখান</string>
+    <string name="city">শহর</string>
+    <string name="open_www_tuni_fi">www.tuni.fi খুলুন</string>
+    <string name="show_map">মানচিত্র দেখাও</string>
+    <string name="set_timer">টাইমার সেট করুন</string>
+    <string name="city_name">শহরের নাম</string>
+</resources>
